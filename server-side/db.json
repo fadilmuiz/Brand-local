@@ -1,0 +1,159 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "username": "God",
+      "email": "G@d.com",
+      "password": "12345",
+      "role": "Admin"
+    },
+    {
+      "username": "God2",
+      "email": "f@y.com",
+      "password": "123",
+      "phoneNumber": "0982",
+      "address": "bogor",
+      "id": 2
+    },
+    {
+      "username": "d",
+      "email": "wdw@a.com",
+      "password": "123",
+      "id": 3
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "": "123",
+      "id": 4
+    },
+    {
+      "username": "fadil",
+      "email": "G@d.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "email": "G@d.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "email": "G@d.com",
+      "password": "12345",
+      "id": 7
+    }
+  ],
+  "Products": [
+    {
+      "id": 1,
+      "name": "Over size kaos",
+      "slug": "over-size-kaos",
+      "description": "Murah sekali",
+      "price": 200000,
+      "mainImg": "https://asset-3s.3second.co.id/p/product/320032312PT_1.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-06-12",
+      "updatedAt": "2023-06-12"
+    },
+    {
+      "id": 2,
+      "name": "Hanna Basic Shirt Long Sleeve",
+      "slug": "Hanna-Basic-Shirt-Long-Sleeve",
+      "description": "Murah sekali",
+      "price": 500000,
+      "mainImg": "https://asset-3s.3second.co.id/p/product/707032311HT_4.JPG",
+      "categoryId": 2,
+      "authorId": 1,
+      "createdAt": "2023-06-12",
+      "updatedAt": "2023-06-12"
+    },
+    {
+      "id": 3,
+      "name": "Famo Polo Shirt Short Sleeve",
+      "slug": "Famo-Polo-Shirt-Short-Sleeve",
+      "description": "Murah sekali",
+      "price": 500000,
+      "mainImg": "https://asset-3s.3second.co.id/p/product/504012312BR_2.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "createdAt": "2023-06-12",
+      "updatedAt": "2023-06-12"
+    },
+    {
+      "name": "gai",
+      "slug": "ekdej",
+      "description": "eowi",
+      "price": "1213224",
+      "mainImg": "https://asset-3s.3second.co.id/p/product/504012312BR_4.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 6
+    },
+    {
+      "name": "fahri",
+      "slug": "abbas",
+      "description": "fahriababs",
+      "price": "20000",
+      "mainImg": "https://asset-3s.3second.co.id/p/product/504012312BR_2.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 7
+    },
+    {
+      "name": "Baju",
+      "slug": "Baju",
+      "description": "Baju",
+      "price": "20000",
+      "mainImg": "https://asset-3s.3second.co.id/p/product/504012312BR_4.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 8
+    },
+    {
+      "name": "leuge of legends",
+      "slug": "Baju",
+      "description": "Baju",
+      "price": "20000",
+      "mainImg": "https://asset-3s.3second.co.id/p/product/504012312BR_2.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 9
+    },
+    {
+      "name": "leuge of legends",
+      "slug": "ekdej",
+      "description": "fahriababs",
+      "price": "20000",
+      "mainImg": "https://asset-3s.3second.co.id/p/product/504012312BR_4.JPG",
+      "categoryId": 1,
+      "authorId": 1,
+      "id": 10
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Pria",
+      "createdAt": "2023-06-12",
+      "updatedAt": "2023-06-12"
+    },
+    {
+      "id": 2,
+      "name": "Wanita",
+      "createdAt": "2023-06-12",
+      "updatedAt": "2023-06-12"
+    }
+  ],
+  "Images": [
+    {
+      "id": 1,
+      "productId": 1,
+      "imgUrl": "https://asset-3s.3second.co.id/p/product/707032311HT_3.JPG",
+      "createdAt": "2023-06-12",
+      "updatedAt": "2023-06-12"
+    }
+  ]
+}
